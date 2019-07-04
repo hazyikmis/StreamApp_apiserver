@@ -13,8 +13,8 @@ Usage:
 3.npm install --save json-server
 4.create "db.json" file, and fill the file with dummy data
 
-5. open the "package.json" file, remove the line "test" under "scripts".
-   Add:
-   "start": "json-server -p 3001 -w db.json"
-6. npm start
-   --NOW YOU CAN SEND RESTFUL API CALLS TO THE SERVER...(You can add, delete, update, list the records in the "db.json")
+5.open the "package.json" file, remove the line "test" under "scripts".
+Add:
+"start": "json-server -p 3001 -w db.json"
+6.npm start
+--NOW YOU CAN SEND RESTFUL API CALLS TO THE SERVER...(You can add, delete, update, list the records in the "db.json")
