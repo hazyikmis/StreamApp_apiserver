@@ -1,0 +1,50 @@
+{
+  "streams": [
+    {
+      "title": "My First Stream",
+      "description": "This is a wonderful stream I've seen so for in my life...",
+      "id": 1
+    },
+    {
+      "description": "In 1984, a young programmer begins to question reality as he works to adapt a fantasy novel into a video game.",
+      "title": "Bandersnatch",
+      "id": 2,
+      "userId": "114517489094732437037"
+    },
+    {
+      "title": "Hobaaaa",
+      "description": "I do not know that movie",
+      "id": 3
+    },
+    {
+      "title": "my stream",
+      "description": "my stream's description",
+      "userx": "114517489094732437037",
+      "id": 4
+    },
+    {
+      "title": "my second stream",
+      "description": "my second stream's description",
+      "userId": "114517489094732437037",
+      "id": 5
+    },
+    {
+      "title": "Dark",
+      "description": " A German Serial, 2007",
+      "userId": "114517489094732437037",
+      "id": 6
+    },
+    {
+      "title": "Seven Hills",
+      "description": "Awesome movie about ISTANBL",
+      "userId": "114517489094732437037",
+      "id": 7
+    },
+    {
+      "title": "Reusable Components",
+      "description": "This is an example of reusable components, aewosme.!!!",
+      "userId": "114517489094732437037",
+      "id": 8
+    }
+  ]
+}
