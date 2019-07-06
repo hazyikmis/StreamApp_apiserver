@@ -23,12 +23,6 @@
       "id": 4
     },
     {
-      "title": "my second stream",
-      "description": "my second stream's description",
-      "userId": "114517489094732437037",
-      "id": 5
-    },
-    {
       "title": "Dark",
       "description": " A German Serial, 2007",
       "userId": "114517489094732437037",
@@ -39,12 +33,6 @@
       "description": "Awesome movie about ISTANBL",
       "userId": "114517489094732437037",
       "id": 7
-    },
-    {
-      "title": "Reusable Components",
-      "description": "This is an example of reusable components, aewosme.!!!",
-      "userId": "114517489094732437037",
-      "id": 8
     }
   ]
 }
